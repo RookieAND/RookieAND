@@ -7,11 +7,19 @@
 <pre>조금씩, 천천히 발전하려고 하는 FE 개발자입니다.
 아직 갈길이 멀지만 열심히 학습을 진행하고 있습니다.</pre>
   
-<h4>🔊 I use it at least once</h4>
+***  
+  
+<h3>🔊 I use it at least once</h3>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF3300?style=flat-square&logo=CoffeeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  
 
+***
+  
+<h4>✨ Most Used Language</h4>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RookieAND&theme=radical&hide=jupyter%20notebook&layout=compact)
+  
+  
 <h4>✨ BOJ Profile</h4>
   
 [![Solved.ac
