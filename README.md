@@ -2,10 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=header&text=RookieAND&fontSize=90&animation=fadeIn)
 
-<h3>📑 아직 무엇을 하고픈지 모르는 개발 희망자.</h3>
+<h3>📑 "왜 이걸 사용해야 하는가?" 에 대한 의문. </h3>
 
-<pre>조금씩, 천천히 발전하려고 하는 FE 개발자입니다.
-아직 갈길이 멀지만 열심히 학습을 진행하고 있습니다.</pre>
+<pre>모든 도구는 사용의 목적이 있습니다. 개발 또한 그렇습니다.
+내가 사용하는 도구의 원리에 대한 의문을 항상 가지려 합니다.</pre>
   
 ***  
   
