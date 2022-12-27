@@ -38,3 +38,10 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 </div>
+
+***
+
+<h3>💎 Award </h3>
+
+2022 제 5회 KB국민은행 소프트웨어 경진대회 대상 (팀 옥상풀빛)
+2022 제 1회 충북 프로그래밍 경진대회 우수상
