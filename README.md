@@ -39,6 +39,11 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 </div>
 
+<h4>✨ Other Skill</h4>
+<ul>
+  <li>OPIc IH</li>
+</ul>
+
 ***
 
 <h3>💎 Award </h3>
