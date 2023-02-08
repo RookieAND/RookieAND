@@ -31,6 +31,8 @@
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwangin)](https://solved.ac/gwangin)
+  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=gwangin&theme=dark)
 
 <h4>✨ Github Status</h4>
   
