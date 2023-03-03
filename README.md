@@ -51,7 +51,7 @@
 
 <h3>✈️ Career </h3>
 <ul>
-  <li>2023/03 ~ ing : 구름 (Groom), Internship </li>
+  <li>2023/03 ~ ing : 구름 (Groom), Full-Stack Engineer, Internship </li>
 </ul>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
