@@ -22,29 +22,23 @@
   
 ***
   
-<h4>✨ Most Used Language</h4>
+<h4>📚 Language</h4>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RookieAND&theme=radical&hide=jupyter%20notebook&layout=compact)
+
+<h4>✨ Github Status</h4>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RookieAND&show_icons=true&theme=radical)
   
-<h4>✨ BOJ Profile</h4>
+<h4>🔏 BOJ Profile</h4>
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwangin)](https://solved.ac/gwangin)
   
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gwangin&theme=dark)
 
-<h4>✨ Github Status</h4>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RookieAND&show_icons=true&theme=radical)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:07EFEB,20:1EC4DC,40:369ACD,60:4D6FBE,100:6644AF&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 </div>
-
-<h4>✨ Other Skill</h4>
-<ul>
-  <li>OPIc IH</li>
-</ul>
 
 ***
 
@@ -54,3 +48,9 @@
   <li>2022 제 1회 충북 프로그래밍 경진대회 우수상</li>
 </ul>
 
+***
+
+<h3>✈️ Career </h3>
+<ul>
+  <li>2023/03 ~ 2023/06 : 구름 (Groom), Internship </li>
+</ul>
