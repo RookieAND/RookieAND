@@ -6,6 +6,11 @@
 원리를 알면 결과를 파악하고 문제를 빠르게 해결할 수 있기에
 내가 사용하는 도구에 대한 의문을 항상 가지려 합니다.</pre>
 
+<h4>🖥 Current I'm Working at..</h4>
+<pre>
+  Goorm (2023.08 ~ Full-Stack Engineer)
+</pre>
+
 <h4>🏷 My Tech Spec</h4>
 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
