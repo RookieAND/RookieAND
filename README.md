@@ -11,7 +11,7 @@
   Goorm (2023.08 ~ Full-Stack Engineer)
 </pre>
 
-<h4>🖥 Current I co-work..</h4>
+<h4>🔥 Current I'm Joined in..</h4>
 <pre>
   Nexters (2024.01 ~ 24th Front-End Developer)
 </pre>
