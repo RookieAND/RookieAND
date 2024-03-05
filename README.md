@@ -13,7 +13,7 @@
 
 <h4>🔥 Current I'm Joined in..</h4>
 <pre>
-  Nexters (2024.01 ~ 24th Front-End Developer)
+  Nexters (2024.01 ~ 2024.03 24th Front-End Developer)
 </pre>
 
 <h4>🏷 My Tech Spec</h4>
